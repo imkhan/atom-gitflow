@@ -1,0 +1,17 @@
+{
+  "name": "gitflow",
+  "version": "0.0.1",
+  "description": "Gitflow for Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imkhan/atom-gitflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imkhan/atom-gitflow/issues"
+  },
+  "license": "MIT"
+}
